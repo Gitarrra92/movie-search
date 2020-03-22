@@ -1,0 +1,12 @@
+.search {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.search input {
+  outline: none;
+  padding: 12px 40px;
+  border-radius: 12px;
+  width: 100%;
+  margin: 2rem 3rem;
+}
