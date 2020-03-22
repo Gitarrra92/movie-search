@@ -1,0 +1,22 @@
+.result {
+  width: 33.33%;
+  min-width: 250px;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+
+.result img {
+  width: 100%;
+  display: block;
+  border-radius: 12px;
+  max-height: 500px;
+}
+
+.result h2 {
+  background-color: white;
+  border-radius: 12px;
+  padding: 15px;
+  margin-top: 8px;
+}
